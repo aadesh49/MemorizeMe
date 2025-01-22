@@ -4,7 +4,6 @@ import "./index.css";
 
 const backgroundImages = [
   '/images/a300654c-2d51-4e4e-9327-3118ebdb86b4.jpg',  // Images are referenced from the public folder
-  '/images/mountains-background-game-vector.jpg',
   '/images/360_F_633134460_ijB1vMAZVwig5ZjwVoKmYfjgYqj3of1m.jpg',
   '/images/574422f8189ba1ff20c4694b22b25b69.jpg',
   '/images/ai-generated-2d-hero-battle-pvp-arena-background-casual-game-art-design-ai-generative-photo.jpg',

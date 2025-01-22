@@ -105,7 +105,7 @@ const Gameboard = ({ onComplete }) => {
 
       <div className="text-2xl font-semibold">
         {gameOver
-          ? `Game Over! Turns: ${turns} Time: ${timer}s`
+          ? `Game Over! Turns: ${turns} Time: ${timer}s` 
           : gameStarted
           ? `Turns: ${turns} Time: ${timer}s`
           : "Click a card to start the game."}
